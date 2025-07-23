@@ -1,2 +1,2 @@
 # Power-Bi
-<img src="images/powerbi.jpg" alt="" />
+<img src="images/excel.jpg" alt="" />
