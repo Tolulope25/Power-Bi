@@ -1,2 +1,6 @@
-# Power-Bi
-<img src="images/excel.jpg" alt="" />
+# Power-Bi      
+
+<img src="excel.jpg" alt="" />
+
+
+    
