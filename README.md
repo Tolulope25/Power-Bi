@@ -1,5 +1,5 @@
 # Power-Bi      
-<img src="Power-Bi.Webp" alt="" />
+<img src="Power-Bi.webp" alt="" />
 
 
 
