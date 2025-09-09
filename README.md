@@ -1,5 +1,5 @@
-# Power-Bis   
-<img src="Power-Bi.webp" alt="Image" />
+# Power-Bi
+<img src="Power-Bi.webp" alt="" />
 
 
 
