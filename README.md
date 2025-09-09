@@ -1,5 +1,5 @@
 # Power-Bi      
-<img src="excel.jpg" alt="" />
+<img src="Power-Bi" alt="" />
 
 
 
