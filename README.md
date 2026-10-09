@@ -5,7 +5,7 @@ An interactive Power BI dashboard analysing employee attrition across 1,470 empl
 ## Dashboard preview
 
 ### Page 1: Overview
-![HR Attrition Dashboard - Overview](hr_attrition_dashboard_1.png)
+![HR Attrition Dashboard - Overview](hr_attrition_dashboard.png)
 
 ### Page 2: Drivers of attrition
 ![HR Attrition Dashboard - Drivers of attrition](hr_attrition_dashboard_2.png)
